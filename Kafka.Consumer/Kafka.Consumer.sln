@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.Consumer.Api", "Kafka.Consumer.Api\Kafka.Consumer.Api.csproj", "{475ECCD4-567B-4BF7-BD56-A4D397FFA973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.Consumer.Models", "Kafka.Consumer.Models\Kafka.Consumer.Models.csproj", "{AB7A5EE4-96A9-45CB-8084-525FE9E299A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.Consumer.App", "Kafka.Consumer.App\Kafka.Consumer.App.csproj", "{2AF09F4E-3B8F-4BC1-AB2C-FCA1E4C97D33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475ECCD4-567B-4BF7-BD56-A4D397FFA973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475ECCD4-567B-4BF7-BD56-A4D397FFA973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475ECCD4-567B-4BF7-BD56-A4D397FFA973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475ECCD4-567B-4BF7-BD56-A4D397FFA973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7A5EE4-96A9-45CB-8084-525FE9E299A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7A5EE4-96A9-45CB-8084-525FE9E299A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7A5EE4-96A9-45CB-8084-525FE9E299A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7A5EE4-96A9-45CB-8084-525FE9E299A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF09F4E-3B8F-4BC1-AB2C-FCA1E4C97D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF09F4E-3B8F-4BC1-AB2C-FCA1E4C97D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF09F4E-3B8F-4BC1-AB2C-FCA1E4C97D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF09F4E-3B8F-4BC1-AB2C-FCA1E4C97D33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D5BDCA8-8CE5-47C3-B3AE-714DDCB633F2}
+	EndGlobalSection
+EndGlobal
